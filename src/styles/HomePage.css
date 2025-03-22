@@ -1,6 +1,12 @@
-.custom-hover:hover {
-    background-color: #f8f9fa !important;
-    color: #007bff !important;
-    border-color: #007bff !important;
-  }
-  
+
+.btn-login{
+  background-color: #f8f9fa !important;
+  color: #007bff !important;
+  border-color: #007bff !important;
+}
+
+.btn-Sign{
+  background-color: #f8f9fa !important;
+  color: #007bff !important;
+  border-color: #007bff !important;
+}
