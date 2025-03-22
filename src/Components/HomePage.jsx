@@ -26,10 +26,10 @@ const HomePage = () => {
             <div className="collapse navbar-collapse justify-content-end" id="navbarNav">
               <ul className="navbar-nav">
                 <li className="nav-item">
-                  <Link className="nav-link btn btn-outline-light me-2 px-4 custom-hover" to="/login">Login</Link>
+                  <Link className="nav-link btn btn-light text-primary px-4" to="/login">Login</Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link btn btn-light text-primary px-4 custom-hover" to="/signup">Sign Up</Link>
+                  <Link className="nav-link btn btn-light text-primary px-4" to="/signup">Sign Up</Link>
                 </li>
               </ul>
             </div>
